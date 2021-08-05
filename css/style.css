@@ -111,19 +111,19 @@
 }
 
 #home .content h1::after{
-  content: "Guru";
+  content: "GSEB Syllabus";
   animation: textanim 10s linear infinite;
 }
 
 @keyframes textanim{
   25%{
-    content: "viraj";
+    content: "Standard-10";
   }
   50%{
-    content: "PATOLA ᴅᴜᴩᴀᴛᴛᴀ";
+    content: "Hi I'm Guru";
   }
   75%{
-    content: "+91 9265849151";
+    content: "+91 6355669851";
   }
 }
 
@@ -553,4 +553,3 @@ section.dark .section-title::after{
     width: 100%;
   }
 }
-
