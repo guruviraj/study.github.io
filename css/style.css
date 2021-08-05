@@ -111,13 +111,13 @@
 }
 
 #home .content h1::after{
-  content: "VISHAL PATOLA";
+  content: "Guru";
   animation: textanim 10s linear infinite;
 }
 
 @keyframes textanim{
   25%{
-    content: "PATOLA ꜱᴀʀᴇᴇ";
+    content: "viraj";
   }
   50%{
     content: "PATOLA ᴅᴜᴩᴀᴛᴛᴀ";
@@ -161,6 +161,28 @@
   background-color: #48dbfb;
   color: #fff;
 }
+
+#home .buttons a:nth-child(4)
+{
+  background-color: #48dbfb;
+  color: #fff;
+}
+
+
+#home .buttons a:nth-child(6)
+{
+  background-color: #48dbfb;
+  color: #fff;
+}
+
+
+#home .buttons a:nth-child(8)
+{
+  background-color: #48dbfb;
+  color: #fff;
+}
+
+
 
 section{
   padding: 100px 0;
